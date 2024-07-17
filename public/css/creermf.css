@@ -1,0 +1,100 @@
+.select-btn, .options li{
+    display: flex !important;
+    cursor: pointer !important;
+    align-items: center !important;
+    
+}
+
+.select-btn{
+    height: 45 !important;
+    font-size: 22px !important;
+    padding: 0 20px !important;
+    border-radius: 6px !important;
+    background: #fff !important;
+    justify-content: space-between;
+}
+
+.select-btn i{
+    font-size: 31px !important;
+    transition: transform 0.3s linear !important;
+}
+
+.content{
+    display: none;
+    padding: 20px !important;
+    margin-top: 15px !important;
+    padding: 20px !important;
+    background: #fff !important;
+}
+
+.wrapper.active .content{
+    display: block;
+}
+
+.content .search{
+    position: relative !important;
+}
+
+.search i{
+    left: 15px !important;
+    color: #999 !important;
+    font-size: 20px !important;
+    line-height: 53px !important;
+    position: absolute !important;
+}
+
+.search input{
+    height: 53px !important;
+    width: 100% !important;
+    outline: none !important;
+    font-size: 17px !important;
+    border-radius: 5px !important;
+    padding: 0 15px 0 43px !important;
+    border: 1px solid #b3b3b3 !important;
+}
+
+.content .options{
+    margin-top: 10px !important;
+    max-height: 250px !important;
+    overflow-y: auto !important;
+    padding-right: 7px;
+}
+
+.options::-webkit-scrollbar{
+    width: 7px;
+}
+
+.options::-webkit-scrollbar-track{
+    background: #f1f1f1 !important;
+    border-radius: 25PX !important;
+
+}
+
+.options::-webkit-scrollbar-thumb{
+    background: #CCC !important;
+    border-radius: 25PX !important;
+
+}
+
+.options li{
+    height: 50px !important;
+    padding: 0 13px !important;
+    font-size: 21px !important;
+    border-radius: 5px !important;
+}
+
+.options li:hover, li.Selected{
+    background: #f2f2f2 !important;
+}
+
+.form{
+    text-align: center !important;
+    margin-left: 60px !important;
+    background-color: rgb(74, 135, 135);
+    margin-left: 4px !important;
+}
+
+.ajout{
+    font-size: 30px !important;
+}
+

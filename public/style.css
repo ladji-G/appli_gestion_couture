@@ -1,0 +1,25 @@
+.cliquable{
+    background-color: rgb(216, 146, 146);
+    background-clip: border-box !important;
+}
+
+.relative{
+    background-image: url("/Image/sewing-1229711_640.jpg") !important;
+
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-attachment: fixed !important;
+    height: 77vh !important;
+}
+
+.plan{
+    background-image: url("/Image/tissus.jpg") !important;
+
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-attachment: fixed !important;
+}
+
+.couleur{
+    color: black !important;
+}

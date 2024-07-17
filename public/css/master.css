@@ -1,0 +1,38 @@
+.navbar{
+
+    position: absolute;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.nav-link{
+
+    display: block;
+    font-size: 30px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    position: relative;
+}
+
+.navbar .nav-link:active{
+    box-shadow: 0 0;
+    top: 6px;
+}
+
+.navbar .navbar-collapse ul li{
+    margin: 0 5px;
+}
+
+.navbar .navbar-collapse ul li.active a{
+    color: blanchedalmond;
+}
+
+
+.titreh{
+
+    font-size: 70px !important;
+}

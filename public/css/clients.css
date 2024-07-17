@@ -1,0 +1,37 @@
+.modal-dialog{
+    width: 900px !important;
+    height: 400px !important;
+    max-width: none !important;
+    
+}
+
+.modal-title{
+    text-align: center !important;
+}
+
+.centrer{
+    margin-right: 10px;
+    margin-left: 150px !important;
+    margin-bottom: 15px !important; 
+
+}
+
+.milieu{
+    
+    text-align: center !important;
+}
+
+.formulaire{
+    text-align: center !important;
+    padding-left: 140px !important;
+}
+
+.enregistrer{
+    background-color: rgb(25, 74, 138) !important;
+}
+
+.entete{
+    font-size: 30px !important;
+    padding-right: 90px !important;
+    font-family: monospace;
+}

@@ -1,0 +1,42 @@
+.centrr{
+    
+    text-align: center !important;
+}
+
+.size{
+    color: red !important;
+    font-size: 25px !important;
+}
+
+.siz{
+    color: green !important;
+    font-size: 25px !important;
+}
+
+.ecris{
+    font-size: 20px !important;
+    color: red !important;
+    margin-top: 5px !important;
+}
+
+.etatcmd{
+    font-size: 35px !important;
+    background-color: green !important;
+    border-radius: 10px !important;
+}
+
+.etcmd{
+    font-size: 35px !important;
+    background-color: #0dcaf0 !important;
+    border-radius: 10px !important;
+}
+
+.infocenter{
+    margin-left: 20px !important;
+}
+
+.dive{
+    background-color: green !important;
+    font-size: 35px !important;
+    text-align: center !important;
+}

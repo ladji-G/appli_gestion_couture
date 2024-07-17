@@ -1,0 +1,19 @@
+.ima{
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+
+.image{
+    height: 50%;
+    width: 50%;
+    object-fit: contain;
+
+}
+
+.creercat{
+    text-align: center !important;
+    padding-left: 300px !important;
+    padding-right: 300px !important;
+}
+
