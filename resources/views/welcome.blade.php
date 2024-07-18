@@ -95,7 +95,7 @@
       font-weight: bolder
     }
 
-    code,
+    code ,
     kbd,
     pre,
     samp {
